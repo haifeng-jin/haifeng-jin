@@ -1,5 +1,20 @@
-### Hi there 👋
+### Hi, Welcome! 👋
 
+My name is Haifeng Jin. I am the main developer of [AutoKeras](https://autokeras.com/) project.
+I am a Ph.D. student in DATA Lab at Texas A&M University and a student researcher on Keras team at Google.
+I also contribute code to Keras Tuner and Keras (in TensorFlow).
+
+
+<a href="https://www.linkedin.com/in/HaifengJin" title="Linkedin"><img src="https://haifengjin.com/img/linkedin.svg" width="20"></a>
+&nbsp; &nbsp;
+<a href="https://scholar.google.com/citations?user=OAj0lr0AAAAJ&amp;hl=en" title="Google Scholar"><img src="https://haifengjin.com/img/scholar.svg" width="20"></a>
+&nbsp; &nbsp;
+<a href="https://twitter.com/haifeng_jin" title="Twitter"><img src="https://haifengjin.com/img/twitter.svg" width="20"></a>
+&nbsp; &nbsp;
+<a href="https://www.zhihu.com/people/jin-hai-feng-68" title="知乎"><img src="https://haifengjin.com/img/zhihu.svg" width="20"></a>
+
+
+                        
 <!--
 **haifeng-jin/haifeng-jin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
