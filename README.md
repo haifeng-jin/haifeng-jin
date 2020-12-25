@@ -1,8 +1,11 @@
 ### Hi, Welcome! 👋
 
-My name is Haifeng Jin. I am the main developer of [AutoKeras](https://autokeras.com/) project.
-I am a Ph.D. student in DATA Lab at Texas A&M University and a student researcher on Keras team at Google.
-I also contribute code to Keras Tuner and Keras (in TensorFlow).
+My name is Haifeng Jin. I am the creator and main developer of [AutoKeras](https://autokeras.com/) project.
+I am also the maintainer of [Keras Tuner](https://keras-team.github.io/keras-tuner/) and a member of the [Keras organization on GitHub](https://github.com/orgs/keras-team/people).
+I am a Ph.D. candidate in DATA Lab at Texas A&M University.
+
+I am expected to graduate in May 2021.
+I seeking a software engineer job in United States.
 
 
 <a href="https://www.linkedin.com/in/HaifengJin" title="Linkedin"><img src="https://haifengjin.com/img/linkedin.svg" width="20"></a>
