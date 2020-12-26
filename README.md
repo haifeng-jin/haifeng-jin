@@ -5,7 +5,7 @@ I am also the maintainer of [Keras Tuner](https://keras-team.github.io/keras-tun
 I am a Ph.D. candidate in DATA Lab at Texas A&M University.
 
 I am expected to graduate in May 2021.
-I seeking a software engineer job in United States.
+I am seeking a software engineer job in United States.
 
 
 <a href="https://www.linkedin.com/in/HaifengJin" title="Linkedin"><img src="https://haifengjin.com/img/linkedin.svg" width="20"></a>
