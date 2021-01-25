@@ -1,8 +1,8 @@
 ### Hi, Welcome! 👋
 
-My name is Haifeng Jin. I am the creator and main developer of [AutoKeras](https://autokeras.com/) project.
-I am also the maintainer of [Keras Tuner](https://keras-team.github.io/keras-tuner/) and a member of the [Keras organization on GitHub](https://github.com/orgs/keras-team/people).
-I am a Ph.D. candidate in DATA Lab at Texas A&M University.
+My name is Haifeng Jin. I am the creator and main developer of [AutoKeras](https://autokeras.com/) project,
+maintainer of [Keras Tuner](https://keras-team.github.io/keras-tuner/), member of the [Keras organization on GitHub](https://github.com/orgs/keras-team/people),
+Ph.D. candidate in DATA Lab at Texas A&M University.
 
 <a href="https://www.linkedin.com/in/HaifengJin" title="Linkedin"><img src="https://haifengjin.com/img/linkedin.svg" width="20"></a>
 &nbsp; &nbsp;
