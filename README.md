@@ -2,11 +2,10 @@
 
 My name is Haifeng Jin.
 
-Author of [AutoKeras](https://autokeras.com/)
-
-Member of the [Keras team](https://github.com/orgs/keras-team/people)
-
-Maintainer of [Keras Tuner](https://keras-team.github.io/keras-tuner/)
+Creator of <a href="https://autokeras.com">AutoKeras</a> <br>
+Software engineer, <a href="https://keras.io/">Keras</a> team @ Google <br>
+Project lead of <a href="https://keras-team.github.io/keras-tuner/">KerasTuner</a> <br>
+Coauthor of <a href="https://www.manning.com/books/automated-machine-learning-in-action?query=automated&utm_source=jin&utm_medium=affiliate&utm_campaign=affiliate&a_aid=jin">Automated Machine Learning in Action</a> <br>
 
 
 <a href="https://www.linkedin.com/in/HaifengJin" title="Linkedin"><img src="https://haifengjin.com/img/linkedin.svg" width="20"></a>
