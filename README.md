@@ -14,7 +14,7 @@ Coauthor of <a href="https://www.manning.com/books/automated-machine-learning-in
 &nbsp; &nbsp;
 <a href="https://twitter.com/haifeng_jin" title="Twitter"><img src="https://haifengjin.com/img/twitter.svg" width="20"></a>
 &nbsp; &nbsp;
-<a href="https://www.zhihu.com/people/jin-hai-feng-68" title="知乎"><img src="https://haifengjin.com/img/zhihu.svg" width="20"></a>
+<a href="https://www.zhihu.com/people/haifeng-jin" title="知乎"><img src="https://haifengjin.com/img/zhihu.svg" width="20"></a>
 
 
                         
